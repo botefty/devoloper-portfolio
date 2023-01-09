@@ -94,3 +94,55 @@ justify-content: space-around;
 .info-description{
     text-align: center;
 }
+/* what i do styles */
+.what-I-do{
+    background-color: none;
+}
+.skill{
+    border: #FFF8F3;
+    box-shadow: #FFF8F3;
+    padding: 30px;
+}
+.skill-container{
+    display: flex;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+/* resume styles */
+.resume-content{
+    display: flex;
+    gap: 24px;
+}
+.resume-title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+
+}
+.resume .sub-title{
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+    margin-bottom: 20px;
+
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.resume-button{
+    text-align: center;
+    background-color: #FD6E0A;
+    margin: 5px;
+}
