@@ -146,3 +146,24 @@ justify-content: space-around;
     background-color: #FD6E0A;
     margin: 5px;
 }
+.contact{
+    display: flex;
+    gap: 100px;
+    padding: 130px 200px;
+    background-color: #FFF8F3;
+}
+.contact .section-title{
+ text-align: left;
+}
+.contact input, textarea{
+    border: 0;
+    margin-bottom: 24px;
+    padding: 20px;
+}
+.contact a{
+    text-decoration: none;
+}
+.section-descriptions{
+    padding: 30px;
+    margin-bottom: 25px;
+}
